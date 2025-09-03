@@ -1,0 +1,140 @@
+ROUND 1
+
+    Player order: Edward ($2000), Yumeko ($2000)
+
+    Edward initial hand: 4♣   8♢   8♡   9♡   Q♢   |   Hand strength: Pair
+
+    Yumeko initial hand: 4♠   5♡   5♢   9♠   J♠   |   Hand strength: Pair
+
+    Edward discarded: 4♣   9♡   
+
+    Yumeko discarded: 4♠   9♠   
+
+    Edward new hand: 2♣   2♠   8♢   8♡   Q♢   |   Hand strength: Two Pair
+
+    Yumeko new hand: 5♠   5♡   5♢   10♠   J♠   |   Hand strength: Three of a Kind
+
+    Edward bet: 2000
+
+    Yumeko bet: 2000
+
+    Edward bet: 0
+
+    Yumeko bet: 0
+
+    Total pot: 4000
+
+    Tied bets. Edward chooses.
+
+    Strongest hand will win.
+
+    Yumeko wins
+
+    New balances:
+
+        Edward: 0 (- 2000)
+
+        Yumeko: 4000 (+ 2000)
+
+ROUND 1
+
+    Player order: Edward ($2000), Yumeko ($2000)
+
+    Edward initial hand: 5♠   5♢   K♡   A♢   A♣   |   Hand strength: Two Pair
+
+    Yumeko initial hand: 6♠   7♣   10♢   J♠   J♣   |   Hand strength: Pair
+
+    Edward discarded: K♡   
+
+    Yumeko discarded: 6♠   7♣   
+
+    Edward new hand: 5♠   5♢   7♢   A♢   A♣   |   Hand strength: Two Pair
+
+    Yumeko new hand: 5♣   2♣   10♢   J♠   J♣   |   Hand strength: Pair
+
+    Edward bet: 2000
+
+    Yumeko bet: 2000
+
+    Edward bet: 0
+
+    Yumeko bet: 0
+
+    Total pot: 4000
+
+    Tied bets. Edward chooses.
+
+    Strongest hand will win.
+
+    Edward wins
+
+    New balances:
+
+        Edward: 4000 (+ 2000)
+
+        Yumeko: 0 (- 2000)
+
+ROUND 1
+
+    Player order: Edward ($2000), Yumeko ($2000)
+
+    Edward initial hand: 3♢   3♡   5♠   8♡   9♠   |   Hand strength: Pair
+
+    Yumeko initial hand: 4♡   7♡   J♢   A♡   A♠   |   Hand strength: Pair
+
+    Edward discarded: 3♢   3♡   
+
+    Yumeko discarded: 4♡   7♡   
+
+    Edward new hand: 5♢   5♠   6♢   8♡   9♠   |   Hand strength: Pair
+
+    Yumeko new hand: 10♣   Q♣   J♢   A♡   A♠   |   Hand strength: Pair
+
+    Edward bet: 100
+
+    Yumeko bet: 220
+
+    Edward bet: 240
+
+    Yumeko bet: 250
+
+    Edward bet: 350
+
+    Yumeko bet: 390
+
+    Edward bet: 700
+
+    Yumeko bet: 700
+
+    Edward bet: 1000
+
+    Yumeko bet: 1020
+
+    Edward bet: 1200
+
+    Yumeko bet: 0
+
+    Edward bet: 1300
+
+    Total pot: 2320
+
+    Edward wins betting.
+
+    Strongest hand will win.
+
+    Yumeko wins
+
+    New balances:
+
+        Edward: 980 (- 1020)
+
+        Yumeko: 3020 (+ 1020)
+
+ROUND 2
+
+    Player order: Yumeko ($3020), Edward ($980)
+
+    Yumeko initial hand: 6♠   7♡   8♠   9♡   Q♣   |   Hand strength: High Card
+
+    Edward initial hand: 3♠   8♣   10♢   J♢   K♢   |   Hand strength: High Card
+

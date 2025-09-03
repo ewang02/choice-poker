@@ -1,0 +1,6 @@
+Current limitations:
+
+- 2 player only
+- Player 1 always goes first in betting and discarding
+- Could make the player.names more useful
+- Bad CLI format
